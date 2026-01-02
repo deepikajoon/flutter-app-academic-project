@@ -1,10 +1,18 @@
-# deepika5051
+# Flutter Mobile App (Academic Project)
 
-A new Flutter project.
+## Description
+A basic Flutter mobile application developed as part of academic coursework
+to understand Flutter structure and Dart fundamentals.
 
-## Getting Started
+## Tech Stack
+- Flutter
+- Dart
 
-This project is a starting point for a Flutter application.
+## Learning Outcome
+- Flutter project structure
+- Dart basics
+- UI development
+
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -14,3 +22,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
